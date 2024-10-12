@@ -2,11 +2,12 @@
 
 Curso: Sistemas de Informação
 
-Integrantes: Emanualle de Souza Gil
-             Erion Pinto Amaral
-             Kayan Meireles Carmo
-             Lucas Matos de Abreu Dias
-             Willy Gonzaga Balierio
+Integrantes:
+* Emanualle de Souza Gil 
+* Erion Pinto Amaral 
+* Kayan Meireles Carmo 
+* Lucas Matos de Abreu Dias 
+* Willy Gonzaga Balierio
 
 Docente: Andrey Rodrigues
 
