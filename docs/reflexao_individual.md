@@ -1,4 +1,10 @@
 # Reflexão Individual
+
+## Reflexão - A3
+Esse trabalho me fez refletir, como a experiência do usuário é fundamental no ambiente do e-commerce. O trabalho me mostrou as áreas de melhorias que o app poderia ter, o que é muito importante para a experiência do usuário. Hoje em dia os aplicativos devem ser constantemente reavaliados e ver as necessidades dos atuais e futuros usuários. Por exemplo, as empresas que recebem feedback dos clientes, possuem uma vantagem no mercado, pois sempre estão em busca de agradar os clientes.
+
+---
+
 ## Reflexão - A4
 Durante este trabalho, participei de uma avaliação detalhada do aplicativo Shopee, onde realizamos uma inspeção de usabilidade, testes de usabilidade, avaliação de comunicabilidade e uma análise de UX. O objetivo era identificar pontos de melhoria que tornassem o aplicativo mais intuitivo e alinhado às expectativas dos usuários. Essa experiência me permitiu desenvolver habilidades essenciais para a área de interação humano-computador (IHC) e avaliação de usabilidade.
 
