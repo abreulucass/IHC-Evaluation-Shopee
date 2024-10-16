@@ -16,7 +16,7 @@ Os usuários foram solicitados a marcar o ponto onde suas percepções sobre a S
 
 ### Usuário 1
 
-![img]()
+![img](https://github.com/abreulucass/IHC-Evaluation-Shopee/blob/main/docs/avaliacao_ux/Img/QuestUsuario1.png?raw=true)
 
 ---
 
