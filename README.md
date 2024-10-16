@@ -34,6 +34,6 @@ O objetivo deste trabalho é analisar a interação dos usuários com o aplicati
 | [Produto 08](https://github.com/abreulucass/IHC-Evaluation-Shopee/blob/main/docs/teste_usabilidade/relatorio_teste.md) | Relatório do teste de usabilidade |
 | [Produto 09](https://github.com/abreulucass/IHC-Evaluation-Shopee/blob/main/docs/avaliacao_ux/relatorio_avaliacao_ux.md) | Relatório com a interpretação das métricas obtidas através do Lighthouse. |
 | [Produto 10](https://github.com/abreulucass/IHC-Evaluation-Shopee/blob/main/docs/avaliacao_ux/relatorio_avaliacao_ux_UEQonline.md) | Relatório da avaliação de User Experience (UX) usando o UEQ online. |
-| [Produto 11](https://github.com/abreulucass/IHC-Evaluation-Shopee/tree/main/docs/avaliacao_comunicabilidade) | Rídeos etiquetados (2 a 6 minutos) e relatório contendo. |
+| [Produto 11](https://github.com/abreulucass/IHC-Evaluation-Shopee/tree/main/docs/avaliacao_comunicabilidade) | Rídeos etiquetados (2 a 6 minutos) e relatório. |
 
 
