@@ -5,7 +5,7 @@ Este relatório tem como objetivo analisar os resultados gerados pela ferramenta
 
 ## Interpretação das Métricas
 
-![img]()
+![img](https://github.com/abreulucass/IHC-Evaluation-Shopee/blob/main/docs/avaliacao_ux/Img/Metricas%203.png?raw=true)
 
 ### Avaliação das Core Web Vitals
 Core Web Vitals é um conjunto de métricas essenciais para medir a qualidade da experiência de uso, como o desempenho de carregamento, interatividade e estabilidade visual. No caso do teste realizado, o site da Shopee foi reprovado nas Core Web Vitals, e os resultados obtidos foram os seguintes:
@@ -22,8 +22,6 @@ Esta métrica avalia a estabilidade visual de uma página, medindo quantos eleme
 ## Outras metricas importantes
 Além das Core Web Vitals, outras métricas foram analisadas no teste com Lighthouse:
 
-![img]()
-
 ### Primeira Pintura de Conteúdo (FCP): 2,3s
 O FCP mede o tempo em que o primeiro conteúdo (texto, imagem, ou SVG) é renderizado no navegador. Embora o valor obtido (2,3s) seja aceitável, está ligeiramente acima do valor recomendado (1,8s ou menos). Esse tempo pode ser uma das causas do atraso na percepção inicial do usuário.
 
@@ -31,6 +29,9 @@ O FCP mede o tempo em que o primeiro conteúdo (texto, imagem, ou SVG) é render
 O TTFB mede o tempo que o servidor leva para responder ao navegador com o primeiro byte de dados. Um TTFB inferior a 0,8s é o ideal. Com 1,6 segundos, o site apresenta uma resposta lenta, o que pode prejudicar a experiência inicial de navegação.
 
 ## Acessibilidade
+
+![img]()
+
 A pontuação de acessibilidade da Shopee foi de 70, indicando que há várias áreas a melhorar. Embora o valor não seja baixo, ele não atinge o ideal para garantir uma navegação acessível a todos os usuários.
 
 ### Principais Problemas de Acessibilidade Identificados:
