@@ -1,4 +1,4 @@
-## 2.2 Perfil dos Usuários-Alvo
+## Perfil dos Usuários-Alvo
 
 ### Consumidores (Compradores)
 Os compradores da Shopee abrangem uma ampla variedade de perfis, com características diversas em termos de idade, habilidades técnicas e contexto de uso.
