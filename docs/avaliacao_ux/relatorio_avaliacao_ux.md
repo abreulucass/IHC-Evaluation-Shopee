@@ -30,7 +30,7 @@ O TTFB mede o tempo que o servidor leva para responder ao navegador com o primei
 
 ## Acessibilidade
 
-![img]()
+![img](https://github.com/abreulucass/IHC-Evaluation-Shopee/blob/main/docs/avaliacao_ux/Img/Metricas%202.png?raw=true)
 
 A pontuação de acessibilidade da Shopee foi de 70, indicando que há várias áreas a melhorar. Embora o valor não seja baixo, ele não atinge o ideal para garantir uma navegação acessível a todos os usuários.
 
