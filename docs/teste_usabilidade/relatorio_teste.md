@@ -13,10 +13,10 @@ Cada sessão será de no máximo 10 minutos, tempo em que o grupo avaliou e test
 
 ## Etapas do teste de usabilidade:
 1. [**PLANEJAMENTO DO TESTE**](https://github.com/abreulucass/IHC-Evaluation-Shopee/blob/main/docs/teste_usabilidade/relatorio_teste.md#planejamento-do-teste)
-2. [**PREPARAÇÃO PARA O TESTE**](https://github.com/abreulucass/IHC-Evaluation-Shopee/edit/main/docs/teste_usabilidade/relatorio_teste.md#prepara%C3%A7%C3%A3o-para-o-teste)
-3. [**TESTE PILOTO**](https://github.com/abreulucass/IHC-Evaluation-Shopee/edit/main/docs/teste_usabilidade/relatorio_teste.md#teste-piloto)
-4. [**EXECUÇÃO DO TESTE**](https://github.com/abreulucass/IHC-Evaluation-Shopee/edit/main/docs/teste_usabilidade/relatorio_teste.md#execu%C3%A7%C3%A3o-do-teste)
-5. [**ANÁLISE DOS RESULTADOS**](https://github.com/abreulucass/IHC-Evaluation-Shopee/edit/main/docs/teste_usabilidade/relatorio_teste.md#an%C3%A1lise-dos-resultados)
+2. [**PREPARAÇÃO PARA O TESTE**](https://github.com/abreulucass/IHC-Evaluation-Shopee/blob/main/docs/teste_usabilidade/relatorio_teste.md#prepara%C3%A7%C3%A3o-para-o-teste)
+3. [**TESTE PILOTO**](https://github.com/abreulucass/IHC-Evaluation-Shopee/blob/main/docs/teste_usabilidade/relatorio_teste.md#teste-piloto)
+4. [**EXECUÇÃO DO TESTE**](https://github.com/abreulucass/IHC-Evaluation-Shopee/blob/main/docs/teste_usabilidade/relatorio_teste.md#execu%C3%A7%C3%A3o-do-teste)
+5. [**ANÁLISE DOS RESULTADOS**](https://github.com/abreulucass/IHC-Evaluation-Shopee/blob/main/docs/teste_usabilidade/relatorio_teste.md#an%C3%A1lise-dos-resultados)
 
 ## PLANEJAMENTO DO TESTE
 
