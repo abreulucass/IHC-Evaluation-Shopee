@@ -5,7 +5,7 @@
 ## Integrantes
 
 |            Aluno              | Matrícula |
-:------------------------------:|:---------:|
+|:------------------------------:|:---------:|
 | Emanuelle de Souza Gil        | 22250833  |
 | Erison Amaral Pinto           | 22252497  |
 | Kayan Meireles Carmos         | 22250834  |
