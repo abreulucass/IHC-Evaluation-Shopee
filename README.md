@@ -24,16 +24,16 @@ O objetivo deste trabalho é analisar a interação dos usuários com o aplicati
 
 | Produto  | Objetivo |
 |:--------:|----------|
-| [Produto 01]() | Tabela de distribuição das tarefas |
-| [Produto 02]() | Descrição do domínio e objetivo do sistema |
-| [Produto 03]() | Descrição dos perfis dos usuários-alvo |
-| [Produto 04]() | Objetivos dos usuários que se pretende avaliar na interface |
+| [Produto 01](https://github.com/abreulucass/IHC-Evaluation-Shopee/blob/main/docs/tabela_tarefas.md) | Tabela de distribuição das tarefas |
+| [Produto 02](https://github.com/abreulucass/IHC-Evaluation-Shopee/blob/main/docs/sistema/dominio_objetivo_sistema.md) | Descrição do domínio e objetivo do sistema |
+| [Produto 03](https://github.com/abreulucass/IHC-Evaluation-Shopee/blob/main/docs/sistema/perfil_usuarios_alvo.md) | Descrição dos perfis dos usuários-alvo |
+| [Produto 04](https://github.com/abreulucass/IHC-Evaluation-Shopee/blob/main/docs/sistema/tarefas_usuarios.md) | Objetivos dos usuários que se pretende avaliar na interface |
 | [Produto 05]() | Planejamento da avaliação |
-| [Produto 06]() | Relatório parcial de cada avaliador |
-| [Produto 07]() | Relatório consolidado da avaliação |
-| [Produto 08]() | Relatório do teste de usabilidade |
-| [Produto 09]() | Relatório com a interpretação das métricas obtidas através do Lighthouse. |
-| [Produto 10]() | Relatório da avaliação de User Experience (UX). |
-| [Produto 11]() | Rídeos etiquetados (2 a 6 minutos) e relatório contendo. |
+| [Produto 06](https://github.com/abreulucass/IHC-Evaluation-Shopee/tree/main/docs/inspecao_usabilidade/relatorios_individuais) | Relatório parcial de cada avaliador |
+| [Produto 07](https://github.com/abreulucass/IHC-Evaluation-Shopee/blob/main/docs/inspecao_usabilidade/relatorio_inspecao.md) | Relatório consolidado da avaliação |
+| [Produto 08](https://github.com/abreulucass/IHC-Evaluation-Shopee/blob/main/docs/teste_usabilidade/relatorio_teste.md) | Relatório do teste de usabilidade |
+| [Produto 09](https://github.com/abreulucass/IHC-Evaluation-Shopee/blob/main/docs/avaliacao_ux/relatorio_avaliacao_ux.md) | Relatório com a interpretação das métricas obtidas através do Lighthouse. |
+| [Produto 10](https://github.com/abreulucass/IHC-Evaluation-Shopee/blob/main/docs/avaliacao_ux/relatorio_avaliacao_ux_UEQonline.md) | Relatório da avaliação de User Experience (UX) usando o UEQ online. |
+| [Produto 11](https://github.com/abreulucass/IHC-Evaluation-Shopee/tree/main/docs/avaliacao_comunicabilidade) | Rídeos etiquetados (2 a 6 minutos) e relatório contendo. |
 
 
