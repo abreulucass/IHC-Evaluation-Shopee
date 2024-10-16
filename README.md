@@ -18,7 +18,7 @@
 ## Sistema: E-Commerce - Shopee
 
 ## Objetivo do Trabalho
-O objetivo deste trabalho é analisar a interação dos usuários com o aplicativo Shopee, identificando suas necessidades, preferências e desafios ao utilizar a plataforma de e-commerce. Através dessa análise, buscamos compreender como consumidores e vendedores utilizam o sistema, quais são suas experiências e percepções, e como esses fatores influenciam a usabilidade do aplicativo.
+O objetivo deste trabalho é analisar a interação dos usuários com o aplicativo Shopee, identificando suas necessidades, preferências e desafios ao utilizar a plataforma de e-commerce. Através dessa análise, buscamos compreender como consumidores utilizam o sistema, quais são suas experiências e percepções, e como esses fatores influenciam a usabilidade do aplicativo.
 
 ## Produtos
 
