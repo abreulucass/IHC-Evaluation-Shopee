@@ -1,32 +1,50 @@
-# Tarefas definidas para os usuários
+## Tarefas e Objetivos dos Usuários
 
-## Tarefa 1: Buscar e filtrar um produto
-**Cenário**: "Você está procurando um fone de ouvido. Por favor, faça uma busca por 'fone de ouvido' na Shopee e filtre os resultados para que mostrem apenas produtos abaixo de R$50."
+### Consumidores (Compradores)
 
-## Tarefa 2: Adicionar um item ao carrinho
-**Cenário**: "Agora, você decidiu que vai comprar o fone de ouvido. Por favor, adicione-o ao carrinho."
+1. **Buscar Produtos**
+   - **Objetivo**: Encontrar rapidamente produtos de interesse usando a função de busca e filtros disponíveis.
+  
+2. **Comparar Preços e Produtos**
+   - **Objetivo**: Avaliar diferentes opções de produtos e preços antes de tomar uma decisão de compra.
 
-## Tarefa 3: Explorar as avaliações de um produto
-**Cenário**: "Agora, você está interessado em um novo celular e quer ler as avaliações de outros usuários antes de comprar. Por favor, tente encontrar as avaliações de um produto específico."
+3. **Adicionar Produtos ao Carrinho**
+   - **Objetivo**: Organizar produtos que desejam comprar em um só lugar para facilitar a finalização da compra.
 
-## Tarefa 4: Excluir um item do carrinho
-**Cenário**: "Você decidiu que não quer mais o fone de ouvido. Por favor, remova-o do seu carrinho de compras."
+4. **Aplicar Cupons de Desconto**
+   - **Objetivo**: Maximizar economias durante a compra utilizando cupons promocionais.
 
-## Tarefa 5: Usar cupons de desconto
-**Cenário**: "Você quer usar um cupom de desconto para economizar na compra do fone de ouvido. Tente encontrar e aplicar um cupom de desconto."
+5. **Finalizar Compra**
+   - **Objetivo**: Completar a transação de forma segura e eficiente, escolhendo a opção de pagamento desejada.
 
-## Tarefa 6: Utilizar o chat com o vendedor
-**Cenário**: "Você tem dúvidas sobre o fone de ouvido e quer conversar com o vendedor. Por favor, use a opção de chat para tirar suas dúvidas."
+6. **Acompanhar Status do Pedido**
+   - **Objetivo**: Verificar atualizações sobre a entrega dos produtos comprados, incluindo rastreamento de pedidos.
 
-## Tarefa 7: Navegar pela categoria de eletrônicos
-**Cenário**: "Você está interessado em explorar a categoria de eletrônicos para ver outros produtos. Navegue até a seção de eletrônicos."
+7. **Interagir com Vendedores**
+   - **Objetivo**: Fazer perguntas sobre produtos ou esclarecer dúvidas por meio do chat com o vendedor.
 
-## Tarefa 8: Rastrear o pedido: 
-**Cenário**: "Você realizou a compra de um produto e agora quer rastrea-lo para saber quando irá chegar em sua casa. Navegue até a aba perfil e procure o rastreio do produto."
+8. **Avaliar Produtos e Vendedores**
+   - **Objetivo**: Deixar feedback sobre produtos adquiridos e sobre a experiência de compra, contribuindo para a comunidade de compradores.
 
-# Tarefa 9: Ver detalhes de um produto específico
-**Cenário**: "Você encontrou um produto que lhe interessa e quer ver mais detalhes. Navegue até a página de detalhes de um produto."
+### Vendedores
 
-# Tarefa 10: Verificar as opções de pagamento
-**Cenário**: "Você está pronto para finalizar a compra e quer verificar as opções de pagamento disponíveis. Vá até o carrinho e veja quais formas de pagamento estão disponíveis."
+1. **Criar e Listar Produtos**
+   - **Objetivo**: Adicionar novos produtos à plataforma, incluindo descrições, preços e imagens.
 
+2. **Gerenciar Inventário**
+   - **Objetivo**: Manter um controle eficaz do estoque, atualizando a disponibilidade de produtos conforme necessário.
+
+3. **Interagir com Clientes**
+   - **Objetivo**: Responder a perguntas e resolver problemas de clientes por meio de mensagens diretas, garantindo um bom atendimento.
+
+4. **Monitorar Vendas e Desempenho**
+   - **Objetivo**: Analisar dados de vendas, identificando quais produtos estão performando melhor e quais precisam de estratégias de marketing.
+
+5. **Implementar Promoções**
+   - **Objetivo**: Criar ofertas e cupons para atrair mais clientes e aumentar as vendas.
+
+6. **Gerar Relatórios**
+   - **Objetivo**: Produzir relatórios de desempenho para avaliar o sucesso das vendas e ajustar estratégias conforme necessário.
+
+7. **Receber Avaliações e Feedback**
+   - **Objetivo**: Obter feedback dos clientes sobre os produtos e o serviço, utilizando essas informações para melhorar ofertas e atendimento.
