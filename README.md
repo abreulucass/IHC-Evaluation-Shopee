@@ -2,12 +2,14 @@
 
 ## Curso: Sistemas de Informação
 
-## Integrantes:
-* Emanualle de Souza Gil 
-* Erion Pinto Amaral 
-* Kayan Meireles Carmo 
-* Lucas Matos de Abreu Dias 
-* Willy Gonzaga Balierio
+|            Aluno              | Matrícula |
+:------------------------------:|:---------:|
+| Emanuelle de Souza Gil        | 22250833  |
+| Erison Amaral Pinto           | 22252497  |
+| Kayan Meireles Carmos         | 22250834  |
+| Lucas Matos de Abreu Dias     | 22250832  |
+|  Willy Willy Gonzaga Balieiro | 22252166  |
+
 
 ## Docente: Andrey Rodrigues
 
