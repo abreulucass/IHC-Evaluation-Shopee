@@ -3,18 +3,18 @@ O objetivo desta inspeção de usabilidade foi identificar problemas na interfac
 
 ---
 
-[Tabela de Detecçao]() <br>
+[Tabela de Detecçao](https://github.com/abreulucass/IHC-Evaluation-Shopee/blob/main/docs/inspecao_usabilidade/tabela_deteccao.md) <br>
 
-[Tabela de Coleção]() <br>
+[Tabela de Coleção](https://github.com/abreulucass/IHC-Evaluation-Shopee/blob/main/docs/inspecao_usabilidade/tabela_colecao.md) <br>
 
-[Tabela de Discriminação]()
+[Tabela de Discriminação](https://github.com/abreulucass/IHC-Evaluation-Shopee/blob/main/docs/inspecao_usabilidade/tabela_discriminacao.md)
 
 ---
 
 ## Pontos Críticos Identificados
 ### Sobrecarga de Informação na Interface (H8. Estética e Design Minimalista)
 
-![img]()
+![img](https://github.com/abreulucass/IHC-Evaluation-Shopee/blob/main/docs/inspecao_usabilidade/images/Problema%201.png?raw=true)
 
 Um dos principais problemas levantados pelos inspetores foi a sobrecarga de informações em várias partes da plataforma, particularmente na tela inicial e no carrinho de compras. Muitos usuários podem se sentir perdidos ou desorientados ao lidar com tantas opções, banners, e produtos expostos de uma só vez. Esse excesso pode gerar frustração e até aumentar a probabilidade de cliques acidentais.
 - **Impacto**: A poluição visual, especialmente em áreas de destaque como a página inicial e o carrinho, afeta diretamente a experiência do usuário. A organização e o design minimalista são necessários para criar uma navegação mais clara e objetiva.
@@ -22,7 +22,7 @@ Um dos principais problemas levantados pelos inspetores foi a sobrecarga de info
 
 ### Falta de Feedback e Controle (H1. Visibilidade do Status do Sistema)
 
-![img]()
+![img](https://github.com/abreulucass/IHC-Evaluation-Shopee/blob/main/docs/inspecao_usabilidade/images/Problema4.png?raw=true)
 
 A falta de feedback claro ao realizar certas ações, como a remoção de itens do carrinho, foi outro ponto de destaque. O sistema não oferece uma confirmação clara de que a ação foi concluída, gerando incerteza e insegurança no usuário. Além disso, há uma dificuldade em acessar informações importantes, como o status de um pedido.
 - **Impacto**: Sem um feedback adequado, o usuário pode achar que a ação não foi realizada corretamente, levando a confusão ou até erros repetidos.
@@ -32,7 +32,7 @@ A falta de feedback claro ao realizar certas ações, como a remoção de itens 
 
 ### Dificuldade na Remoção de Produtos e Ajustes (H7. Flexibilidade e Eficiência de Uso)
 
-![img]()
+![img](https://github.com/abreulucass/IHC-Evaluation-Shopee/blob/main/docs/inspecao_usabilidade/images/Problema4.png?raw=true)
 
 A remoção de produtos do carrinho foi relatada como uma tarefa difícil e pouco intuitiva, já que o usuário precisa ajustar a quantidade para zero ao invés de simplesmente excluir o item. Isso quebra a eficiência esperada, especialmente em um ambiente de compras rápidas.
 - **Impacto**: Esse tipo de interação pouco flexível afeta a eficiência do uso da plataforma, tornando a experiência mais demorada e frustrante, particularmente para usuários mais experientes que buscam um processo ágil.
@@ -40,7 +40,7 @@ A remoção de produtos do carrinho foi relatada como uma tarefa difícil e pouc
 
 ### Filtros de Busca Inconsistentes (H4. Consistência e Padrões)
 
-![img]()
+![img](https://github.com/abreulucass/IHC-Evaluation-Shopee/blob/main/docs/inspecao_usabilidade/images/problema2.png?raw=true)
 
 Foi identificado um problema com a forma como os filtros de busca são apresentados. A plataforma oferece duas maneiras diferentes de aplicar filtros, o que pode confundir o usuário. A consistência na forma como a interface opera é essencial para uma boa experiência.
 - **Impacto**: Essa inconsistência pode levar o usuário a questionar qual filtro aplicar ou até mesmo perder tempo testando diferentes opções.
