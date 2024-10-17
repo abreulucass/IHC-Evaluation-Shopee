@@ -135,61 +135,76 @@ Inicialmente contávamos com aproximadamente 15 tarefas bem definidas, porém, a
 
 | Tarefa     | Tempo Gasto | Número de Erros | Número de Confusão | Solicitações de Ajuda |
 |------------|-------------|-----------------|--------------------|-----------------------|
-| Tarefa 1   | 40s:57ms    | 0               | 2                  | 1                     |
-| Tarefa 2   | 18s:59ms    | 0               | 0                  | 0                     |
-| Tarefa 3   | 26s:26ms    | 0               | 0                  | 1                     |
-| Tarefa 4   | 39s:40ms    | 0               | 1                  | 1                     |
-| Tarefa 5   | 46s:83ms    | 0               | 5                  | 1                     |
-| Tarefa 6   | 19s:13ms    | 0               | 0                  | 0                     |
-| Tarefa 7   | 22s:42ms    | 0               | 0                  | 2                     |
-| Tarefa 8   | 33s:65ms    | 0               | 3                  | 0                     |
-| Tarefa 9   | 21s:99ms    | 0               | 0                  | 0                     |
-| Tarefa 10  | 16s:41      | 0               | 0                  | 0                     |
+| Tarefa 1 - Buscar e filtrar um produto  | 40s:57ms    | 0               | 2                  | 1                     |
+| Tarefa 2 - Adicionar um item ao carrinho  | 18s:59ms    | 0               | 0                  | 0                     |
+| Tarefa 3 - Usar cupons de desconto  | 26s:26ms    | 0               | 0                  | 1                     |
+| Tarefa 4 - Usar o Chat com o vendedor   | 39s:40ms    | 0               | 1                  | 1                     |
+| Tarefa 5 - Excluir um item do carrinho   | 46s:83ms    | 0               | 5                  | 1                     |
+| Tarefa 6 - Explorar as avaliações de um produto   | 19s:13ms    | 0               | 0                  | 0                     |
+| Tarefa 7 - Navegar pela categoria de eletrônicos   | 22s:42ms    | 0               | 0                  | 2                     |
+| Tarefa 8 - Ver detalhes de um produto específico   | 33s:65ms    | 0               | 3                  | 0                     |
+| Tarefa 9 - Rastrear um pedido   | 21s:99ms    | 0               | 0                  | 0                     |
+| Tarefa 10 - Verificar as opções de pagamento | 16s:41      | 0               | 0                  | 0                     |
 
 #### Usuário 2
 
 | Tarefa     | Tempo Gasto | Número de Erros | Número de Confusão | Solicitações de Ajuda |
 |------------|-------------|-----------------|--------------------|-----------------------|
-| Tarefa 1   |   |               |                  |                      |
-| Tarefa 2   |     |               |                |                     |
-| Tarefa 3   |    |               |                  |                     |
-| Tarefa 4   |    |             |                |                   |
-| Tarefa 5   |    |             |                 |                     |
-| Tarefa 6   |   |               |                 |                    |
-| Tarefa 7   |   |            |                |                     |
-| Tarefa 8   |   |              |                  |                   |
-| Tarefa 9   |   |            |                |                     |
-| Tarefa 10  |   |               |                 |                     |
+| Tarefa 1 - Buscar e filtrar um produto  |  01m:10s:79ms |      0         |         1        |            1          |
+| Tarefa 2 - Adicionar um item ao carrinho  |  29s:81ms   |       0        |        0        |         0            |
+| Tarefa 3 - Usar cupons de desconto  |  01m:53s:43ms |      2         |       3           |         2            |
+| Tarefa 4 - Usar o Chat com o vendedor   |   1min:37s |       0      |        1        |         1          |
+| Tarefa 5 - Excluir um item do carrinho   |   13s:68ms |        0     |        0         |         0            |
+| Tarefa 6 - Explorar as avaliações de um produto   |  35s:83ms |        0       |         1        |          0          |
+| Tarefa 7 - Navegar pela categoria de eletrônicos   |   50s |      1      |        3       |        0             |
+| Tarefa 8 - Ver detalhes de um produto específico   |   02m:10s:37ms |       3       |         5         |         2          |
+| Tarefa 9 - Rastrear um pedido   |   40s |     0       |        0        |        0             |
+| Tarefa 10 - Verificar as opções de pagamento |   02m:21s:03ms |       1        |         3        |          1           |
 
 #### Usuário 3
 
 | Tarefa     | Tempo Gasto | Número de Erros | Número de Confusão | Solicitações de Ajuda |
 |------------|-------------|-----------------|--------------------|-----------------------|
-| Tarefa 1   |   |               |                  |                      |
-| Tarefa 2   |     |               |                |                     |
-| Tarefa 3   |    |               |                  |                     |
-| Tarefa 4   |    |             |                |                   |
-| Tarefa 5   |    |             |                 |                     |
-| Tarefa 6   |   |               |                 |                    |
-| Tarefa 7   |   |            |                |                     |
-| Tarefa 8   |   |              |                  |                   |
-| Tarefa 9   |   |            |                |                     |
-| Tarefa 10  |   |               |                 |                     |
+| Tarefa 1 - Buscar e filtrar um produto  | 01m:34s:10ms  |      0         |          2        |           0           |
+| Tarefa 2 - Adicionar um item ao carrinho  |  37s:08ms   |      0         |          0      |             0        |
+| Tarefa 3 - Usar cupons de desconto   |  01m:11s:61ms  |        0       |       2           |         0            |
+| Tarefa 4 - Usar o Chat com o vendedor   |  25s:78ms  |     0        |        0        |          0         |
+| Tarefa 5 - Excluir um item do carrinho   |   17s:96ms |     0        |        0         |         0            |
+| Tarefa 6 - Explorar as avaliações de um produto   |  26s:68ms |       0        |        0         |         0           |
+| Tarefa 7 - Navegar pela categoria de eletrônicos   |   01m:52s:96ms |      1      |       4         |         0            |
+| Tarefa 8 - Ver detalhes de um produto específico   |   53s:39ms |      0        |          0        |          0         |
+| Tarefa 9 - Rastrear um pedido   |  40s:04ms |       0     |            0    |             0        |
+| Tarefa 10 - Verificar as opções de pagamento |   23s:46ms |       0        |          0       |         0            |
 
 #### Usuário 4
 
 | Tarefa     | Tempo Gasto | Número de Erros | Número de Confusão | Solicitações de Ajuda |
 |------------|-------------|-----------------|--------------------|-----------------------|
-| Tarefa 1   |   |               |                  |                      |
-| Tarefa 2   |     |               |                |                     |
-| Tarefa 3   |    |               |                  |                     |
-| Tarefa 4   |    |             |                |                   |
-| Tarefa 5   |    |             |                 |                     |
-| Tarefa 6   |   |               |                 |                    |
-| Tarefa 7   |   |            |                |                     |
-| Tarefa 8   |   |              |                  |                   |
-| Tarefa 9   |   |            |                |                     |
-| Tarefa 10  |   |               |                 |                     |
+| Tarefa 1 - Buscar e filtrar um produto  |  01m:12s:09ms |      0         |        2          |           0           |
+| Tarefa 2 - Adicionar um item ao carrinho  |  17s:64ms   |       0        |          0      |            0         |
+| Tarefa 3 - Usar cupons de desconto   |   21s:53ms |       0        |           0       |            0         |
+| Tarefa 4 - Usar o Chat com o vendedor   |   01m:12s:51ms  |     1        |        3        |         0          |
+| Tarefa 5 - Excluir um item do carrinho   |   32s:43ms |      0       |        1         |          0           |
+| Tarefa 6 - Explorar as avaliações de um produto   |  27s:78ms |      0         |       0          |         0           |
+| Tarefa 7 - Navegar pela categoria de eletrônicos   |  01m:40s:19ms |      0      |       3         |          0           |
+| Tarefa 8 - Ver detalhes de um produto específico   |  53s:01ms  |        0      |         1         |        0           |
+| Tarefa 9 - Rastrear um pedido   |  51s:33ms |       0     |          2      |            0         |
+| Tarefa 10 - Verificar as opções de pagamento |  49s:39ms |       0        |        1         |          0           |
+
+
+|  Tarefa   | Mediana |
+|-----------|---------|
+| Tarefa 1 - Buscar e filtrar um produto | 1min:11s:44ms |
+| Tarefa 2 - Adicionar um item ao carrinho | 23s:570ms |
+| Tarefa 3 - Usar cupons de desconto  | 48s:543ms |
+| Tarefa 4 - Usar o Chat com o vendedor  |  |
+| Tarefa 5 - Excluir um item do carrinho  |  |
+| Tarefa 6 - Explorar as avaliações de um produto  |  |
+| Tarefa 7 - Navegar pela categoria de eletrônicos  |  |
+| Tarefa 8 - Ver detalhes de um produto específico  |  |
+| Tarefa 9 - Rastrear um pedido  |  |
+| Tarefa 10 - Verificar as opções de pagamento |  | 
+ |  |
 
 ### Dados Qualitativos
 
@@ -207,22 +222,57 @@ Inicialmente contávamos com aproximadamente 15 tarefas bem definidas, porém, a
 
 | ID | Problema |
 |----|----------|
-| 1  | |
-| 2  | |
-| 3  | |
+| 1  | Para o usuário, encontrar o chat com o vendedor se tornou algo difícil, pois os signos não se mostram claros. |
+| 2  | Para localizar uma categoria dentro do sistema se torna difícil e ineficiente, talvez por conta da poluição de informações que se encontram no sistema |
+| 3  | O usuário teve dificuldade em localizar o filtro de preço devido à variedade de opções. |
+| 4  | A tela de cupons apresentava muita informação, sem mensagens de erro ao tentar utilizar um cupom ou de sucesso quando aplicado. |
+| 5  | O usuário se sentiu sobrecarregado com informações irrelevantes e não conseguiu encontrar os detalhes de um produto. |
+| 6  | Foi solicitado o endereço para verificar as formas de pagamento, o que quase fez o usuário desistir da tarefa, já que essa informação não estava disponível em outro lugar |
 
 #### Usuário 3
 
 | ID | Problema |
 |----|----------|
-| 1  | |
-| 2  | |
-| 3  | |
+| 1  | As múltiplas opções de filtro, distribuídas em abas diferentes, causaram confusão. |
+| 2  | A ausência de confirmação ao aplicar cupons gerou incerteza no usuário. |
+| 3  | O usuário não conseguiu encontrar a seção de eletrônicos e recorreu à aba de pesquisa como alternativa. |
 
 #### Usuário 4
 
 | ID | Problema |
 |----|----------|
-| 1  | |
-| 2  | |
-| 3  | |
+| 1  | O usuário teve dificuldade em localizar o filtro de preço entre as várias opções. |
+| 2  | Não conseguiu encontrar um chat específico para perguntar sobre um produto, pois apenas o chat geral estava visível. |
+| 3  | Não havia um botão claro para remover produtos do carrinho, o que causou confusão. |
+| 4  | O usuário não conseguiu localizar a seção de eletrônicos. |
+| 5  | A seção de rastreamento de pedidos não deixava clara sua funcionalidade. |
+
+#### Discriminação
+
+| ID  | Problema |
+|-----|----------|
+|  1  | Apesar do sistema apresentar muitas opções de filtro, a tela de filtragem fica visualmente poluída com muitas informações.       |
+|  2  | O usuário teve dificuldade em localizar o filtro de preço devido à variedade de opções.        |
+|  3  | Ao tentar excluir um item do carrinho, o usuário tende a se perder, pois o sistema não é claro quanto à localização do botão de exclusão; um ícone de lixeiro ajudaria.         |
+|  4  | A ausência de confirmação ao aplicar cupons gerou incerteza no usuário.         |
+|  5  | O usuário não conseguiu encontrar a seção de eletrônicos e recorreu à aba de pesquisa como alternativa.         |
+|  6  | O usuário não conseguiu encontrar um chat específico para perguntar sobre um produto, pois apenas o chat geral estava visível.         |
+|  7  | A tela de cupons apresentava muita informação, sem mensagens de erro ao tentar utilizar um cupom ou de sucesso quando aplicado.         |
+|  8  | O usuário se sentiu sobrecarregado com informações irrelevantes e não conseguiu encontrar os detalhes de um produto.         |
+|  9  | Foi solicitado o endereço para verificar as formas de pagamento, o que quase fez o usuário desistir da tarefa, já que essa informação não estava disponível em outro lugar.         |
+|  10 | A seção de rastreamento de pedidos não deixava clara sua funcionalidade.        |
+
+#### Classsificação
+
+| ID  | Problema | Componente de Usabilidade |
+|-----|----------|---------------------------|
+|  1  | Apesar do sistema apresentar muitas opções de filtro, a tela de filtragem fica visualmente poluída com muitas informações. | Facilidade de aprendizado |
+|  2  | O usuário teve dificuldade em localizar o filtro de preço devido à variedade de opções. | Facilidade de memorização  |
+|  3  | Ao tentar excluir um item do carrinho, o usuário tende a se perder, pois o sistema não é claro quanto à localização do botão de exclusão; um ícone de lixeiro ajudaria. | Prevenção de erros        |
+|  4  | A ausência de confirmação ao aplicar cupons gerou incerteza no usuário. Prevenção de erros |
+|  5  | O usuário não conseguiu encontrar a seção de eletrônicos e recorreu à aba de pesquisa como alternativa.  | Facilidade de memorização        |
+|  6  | O usuário não conseguiu encontrar um chat específico para perguntar sobre um produto, pois apenas o chat geral estava visível. | Facilidade de uso   |
+|  7  | A tela de cupons apresentava muita informação, sem mensagens de erro ao tentar utilizar um cupom ou de sucesso quando aplicado. | Prevenção de erros |
+|  8  | O usuário se sentiu sobrecarregado com informações irrelevantes e não conseguiu encontrar os detalhes de um produto. | Eficiência de uso |
+|  9  | Foi solicitado o endereço para verificar as formas de pagamento, o que quase fez o usuário desistir da tarefa, já que essa informação não estava disponível em outro lugar. | Satisfação  |
+|  10 | A seção de rastreamento de pedidos não deixava clara sua funcionalidade. | Facilidade de aprendizado |
