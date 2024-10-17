@@ -28,7 +28,7 @@ O objetivo deste trabalho é analisar a interação dos usuários com o aplicati
 | [Produto 02](https://github.com/abreulucass/IHC-Evaluation-Shopee/blob/main/docs/sistema/dominio_objetivo_sistema.md) | Descrição do domínio e objetivo do sistema |
 | [Produto 03](https://github.com/abreulucass/IHC-Evaluation-Shopee/blob/main/docs/sistema/perfil_usuarios_alvo.md) | Descrição dos perfis dos usuários-alvo |
 | [Produto 04](https://github.com/abreulucass/IHC-Evaluation-Shopee/blob/main/docs/sistema/tarefas_usuarios.md) | Objetivos dos usuários que se pretende avaliar na interface |
-| [Produto 05]() | Planejamento da avaliação |
+| [Produto 05](https://github.com/abreulucass/IHC-Evaluation-Shopee/blob/main/docs/inspecao_usabilidade/relatorio_inspecao.md#relat%C3%B3rio-consolidado-da-avalia%C3%A7%C3%A3o) | Planejamento da avaliação |
 | [Produto 06](https://github.com/abreulucass/IHC-Evaluation-Shopee/tree/main/docs/inspecao_usabilidade/relatorios_individuais) | Relatório parcial de cada avaliador |
 | [Produto 07](https://github.com/abreulucass/IHC-Evaluation-Shopee/blob/main/docs/inspecao_usabilidade/relatorio_inspecao.md) | Relatório consolidado da avaliação |
 | [Produto 08](https://github.com/abreulucass/IHC-Evaluation-Shopee/blob/main/docs/teste_usabilidade/relatorio_teste.md) | Relatório do teste de usabilidade |
