@@ -22,17 +22,17 @@ Os usuários foram solicitados a marcar o ponto onde suas percepções sobre a S
 
 ### Usuário 2
 
-![img]()
+![img](https://github.com/abreulucass/IHC-Evaluation-Shopee/blob/main/docs/avaliacao_ux/Img/QuestUs2.png?raw=true)
 
 ---
 
 ### Usuário 3
 
-![img]()
+![img](https://github.com/abreulucass/IHC-Evaluation-Shopee/blob/main/docs/avaliacao_ux/Img/QuestUs2.png?raw=true)
 ___
 
 ### Usuário 4
 
-![img]()
+![img](https://github.com/abreulucass/IHC-Evaluation-Shopee/blob/main/docs/avaliacao_ux/Img/QuestUs3.png?raw=true)
 
 ---
